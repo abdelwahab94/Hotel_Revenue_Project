@@ -22,6 +22,7 @@ The goal of the project is to provide clear, actionable reports for business dec
 2.**Set Up the Database:**
 
 Use the provided SQL scripts to create and populate the database.
+
 3.**Run the Queries:**
 
 Execute the SQL scripts to generate reports and analyze the data.

@@ -17,16 +17,16 @@ The goal of the project is to provide clear, actionable reports for business dec
 
 ## How to Use
 1. **Clone the Repository:**
-   ```bash
-git clone https://github.com/abdelwahab94/Hotel_Revenue_Project.git
+ ```bash
+  git clone https://github.com/abdelwahab94/Hotel_Revenue_Project.git
 
 2. **Set Up the Database:**
 
-Use the provided SQL scripts to create and populate the database.
+ Use the provided SQL scripts to create and populate the database.
 
 3. **Run the Queries:**
 
-Execute the SQL scripts to generate reports and analyze the data.
+ Execute the SQL scripts to generate reports and analyze the data.
 ## Example Reports
 The project includes the following SQL scripts to generate key reports:
 

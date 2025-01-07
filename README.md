@@ -17,7 +17,7 @@ The goal of the project is to provide clear, actionable reports for business dec
 
 ## How to Use
 1. **Clone the Repository:**
-```bash
+   ```bash
 git clone https://github.com/abdelwahab94/Hotel_Revenue_Project.git
 
 2. **Set Up the Database:**

@@ -1,0 +1,29 @@
+hotel,meal,arrival_date_year,total_revenue_per_year,profit_percentage
+"City Hotel",BB,2018,2440291.45,6.85
+"City Hotel",HB,2018,443862.47,1.25
+"City Hotel",SC,2018,119323.94,0.34
+"City Hotel",FB,2018,227.99,0
+"City Hotel",BB,2019,8284295.32,23.27
+"City Hotel",HB,2019,1036150.02,2.91
+"City Hotel",SC,2019,988334.85,2.78
+"City Hotel",FB,2019,413.41,0
+"City Hotel",BB,2020,5895039.51,16.56
+"City Hotel",SC,2020,1183475.3,3.32
+"City Hotel",HB,2020,608441.5,1.71
+"City Hotel",FB,2020,109.95,0
+hotel,HB,2019,179.98,0
+"Resort Hotel",BB,2018,1932928.26,5.43
+"Resort Hotel",HB,2018,1006098.18,2.83
+"Resort Hotel",FB,2018,138873.57,0.39
+"Resort Hotel",Undefined,2018,64370.1,0.18
+"Resort Hotel",SC,2018,4746.01,0.01
+"Resort Hotel",BB,2019,4228473.41,11.88
+"Resort Hotel",HB,2019,1962682.14,5.51
+"Resort Hotel",FB,2019,226561.99,0.64
+"Resort Hotel",Undefined,2019,203863.33,0.57
+"Resort Hotel",SC,2019,7298.02,0.02
+"Resort Hotel",BB,2020,2906474.07,8.16
+"Resort Hotel",HB,2020,1679480.07,4.72
+"Resort Hotel",Undefined,2020,159126.37,0.45
+"Resort Hotel",FB,2020,68299.85,0.19
+"Resort Hotel",SC,2020,10590.9,0.03

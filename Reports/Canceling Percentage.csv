@@ -1,0 +1,6 @@
+hotel,is_canceled,count(is_canceled),canceling_percentage
+"City Hotel",0,46228,0.3606
+"City Hotel",1,38976,0.3040
+hotel,1,4,0.0000
+"Resort Hotel",0,29815,0.2325
+"Resort Hotel",1,13187,0.1029

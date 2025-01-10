@@ -1,0 +1,39 @@
+hotel,market_segment,arrival_date_year,total_revenue_per_year,profit_percentage
+"City Hotel","Online TA",2018,762390.25,2.79
+"City Hotel","Offline TA/TO",2018,324700.32,1.19
+"City Hotel",Groups,2018,231969.21,0.85
+"City Hotel",Direct,2018,230217.29,0.84
+"City Hotel",Corporate,2018,61011.43,0.22
+"City Hotel",Complementary,2018,2874.4,0.01
+"City Hotel","Online TA",2019,4642560.15,16.99
+"City Hotel","Offline TA/TO",2019,1113762.44,4.08
+"City Hotel",Direct,2019,732135.58,2.68
+"City Hotel",Corporate,2019,218489.84,0.8
+"City Hotel",Groups,2019,195478.47,0.72
+"City Hotel",Aviation,2019,43718.16,0.16
+"City Hotel",Complementary,2019,6846.37,0.03
+"City Hotel","Online TA",2020,3995869,14.62
+"City Hotel",Direct,2020,759205.69,2.78
+"City Hotel","Offline TA/TO",2020,613939.67,2.25
+"City Hotel",Groups,2020,205220.95,0.75
+"City Hotel",Corporate,2020,90162.98,0.33
+"City Hotel",Aviation,2020,33979.48,0.12
+"City Hotel",Complementary,2020,2399.39,0.01
+"Resort Hotel","Online TA",2018,1076293.61,3.94
+"Resort Hotel","Offline TA/TO",2018,910248.76,3.33
+"Resort Hotel",Direct,2018,629535.67,2.3
+"Resort Hotel",Corporate,2018,83582.17,0.31
+"Resort Hotel",Groups,2018,78974.73,0.29
+"Resort Hotel",Complementary,2018,2136.48,0.01
+"Resort Hotel","Online TA",2019,2519656.12,9.22
+"Resort Hotel","Offline TA/TO",2019,1686763.51,6.17
+"Resort Hotel",Direct,2019,1182388.95,4.33
+"Resort Hotel",Groups,2019,353259.57,1.29
+"Resort Hotel",Corporate,2019,76100.04,0.28
+"Resort Hotel",Complementary,2019,2832.48,0.01
+"Resort Hotel","Online TA",2020,2096629.13,7.67
+"Resort Hotel","Offline TA/TO",2020,1037282.79,3.8
+"Resort Hotel",Direct,2020,991995.37,3.63
+"Resort Hotel",Groups,2020,256815.05,0.94
+"Resort Hotel",Corporate,2020,68083.26,0.25
+"Resort Hotel",Complementary,2020,3073.74,0.01
